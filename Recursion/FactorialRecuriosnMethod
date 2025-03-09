@@ -1,4 +1,4 @@
-// RECURSIVE METHOD FOR BINARY SEARCH
+// RECURSIVE METHOD FOR FACTORIAL
 def factorial(n):
     if n == 0:
         return 1
